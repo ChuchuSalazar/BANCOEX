@@ -1,6 +1,6 @@
 absl-py==2.3.1
 affine==2.4.0
-aiobotocore @ file:///croot/aiobotocore_1714464387507/work
+aiobotocore==2.5.0
 aiofiles==24.1.0
 aiohappyeyeballs @ file:///croot/aiohappyeyeballs_1725434011349/work
 aiohttp @ file:///croot/aiohttp_1725527756643/work
@@ -664,4 +664,5 @@ yt-dlp==2024.10.22
 zict @ file:///work/perseverance-python-buildout/croot/zict_1698876364831/work
 zipp @ file:///work/perseverance-python-buildout/croot/zipp_1707367835224/work
 zope.interface @ file:///work/perseverance-python-buildout/croot/zope.interface_1698866533743/work
+
 zopfli==0.2.3.post1
