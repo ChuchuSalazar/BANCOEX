@@ -174,7 +174,7 @@ def create_mobile_dashboard_metrics(df):
 def load_and_process_data():
     try:
         # Intentar cargar el archivo Excel
-        file_path = r"C:\12 bancoex\evaluaciones\NOMINA DE EVALUACION III .xls"
+        file_path = r"NOMINA DE EVALUACION III .xls"
         
         # Leer el archivo Excel
         df = pd.read_excel(file_path)
@@ -1246,4 +1246,5 @@ def main():
     )
 
 if __name__ == "__main__":
+
     main()
