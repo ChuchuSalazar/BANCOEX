@@ -1,8 +1,10 @@
+streamlit
 matplotlib
 numpy
 pandas
 plotly
 reportlab
 seaborn
+
 
 
